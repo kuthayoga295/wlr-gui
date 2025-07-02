@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/yoga/apps/wlr-gui.sh
+Icon=preferences-desktop-display
+Categories=Settings;DesktopSettings;HardwareSettings;
+
+Name=Wlr-Randr
+GenericName=Monitor Settings
+Comment=Configure monitors
