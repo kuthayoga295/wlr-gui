@@ -1,3 +1,4 @@
+# wlr-randr GUI with zenity
 ![screenshoot-20250702-120037](https://github.com/user-attachments/assets/8b316be3-a667-4458-9e52-3a490bae4b44)
 ![screenshoot-20250702-120114](https://github.com/user-attachments/assets/0fd066b6-016d-40a8-9e5d-40835a5f3023)
 ![screenshoot-20250702-120158](https://github.com/user-attachments/assets/82f15dd4-fbe6-4fb0-9592-99c32b48cd2b)
